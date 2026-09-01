@@ -1,0 +1,19 @@
+CupCarbon v. Klines 7.2
+----------------
+name:LoRaP2P Simulation
+zoom:4
+centerposition_la:20.686614718093416
+centerposition_lo:-103.36194676294313
+map:1
+display_details:false
+draw_radio_links:false
+draw_sensor_arrows:false
+radio_links_color:2
+draw_marker_arrows:false
+display_rl_distance:true
+propagation:false
+display_marker_distance:false
+display_radio_messages:false
+draw_script_file_name:false
+display_print_messages:true
+display_all_routes:false
