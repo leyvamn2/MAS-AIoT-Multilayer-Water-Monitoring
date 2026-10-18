@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:156
+device_longitude:-103.33739428558334
+device_latitude:20.628196318594295
+device_elevation:0.0
+device_radius:700.0
+device_hide:1
+device_pic:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_script_file_name:codigomaquinadeestadoscorregido.csc
